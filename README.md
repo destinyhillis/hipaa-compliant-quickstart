@@ -72,5 +72,7 @@ Once assigned to a resource group or subscription, Policy will run the evaluatio
 
 # Additional Resources
 [Azure CLI Bicep Commands](https://docs.microsoft.com/en-us/cli/azure/bicep?view=azure-cli-latest)
+
 [Azure CLI Policy Commands](https://docs.microsoft.com/en-us/cli/azure/policy?view=azure-cli-latest)
+
 [Details of the HIPAA HITRUST 9.2 Regulatory Compliance built-in initiative](https://docs.microsoft.com/en-us/azure/governance/policy/samples/hipaa-hitrust-9-2)
